@@ -1,0 +1,32 @@
+# Python
+*.pyc
+__pycache__/
+
+# Virtual Environment
+.venv/
+venv/
+
+# Django
+*.log
+*.pot
+*.py[cod]
+*~
+*.swp
+.DS_Store
+*.coverage
+*.tox
+*.env
+*.example
+*.sqlite3
+
+# Media
+media/
+
+# Static
+static/
+
+# Tests
+test_result/
+
+# Migrations
+*/migrations/*
