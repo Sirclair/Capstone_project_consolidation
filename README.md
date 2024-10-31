@@ -63,4 +63,4 @@ Political Site is a Django-based web application that allows users to view polit
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 ## Contact
-For any questions or issues, please contact bright@example.com.
+For any questions or issues, please contact chimuka.b@yahoo.com
