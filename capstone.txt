@@ -1,1 +1,7 @@
 https://github.com/Sirclair/Capstone_project_consolidation
+
+HI , Reviwer i hope my project works fine and not sure of that because i did
+not run these  docker build -t coder124/political_site . and docker run -p 8000:8000 
+coder124/political_site
+The reason being my pc has run out of space so i can not download docker so as to run the above commands
+ 
