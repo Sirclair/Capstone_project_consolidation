@@ -1,6 +1,5 @@
 # Project Overview
-This project [brief description of what the project does].
-
+Political Site is a Django-based web application that allows users to view political candidates, vote for their preferred candidate, and see the voting results. This application ensures user authentication, allowing only registered users to vote.
 ## Setup Instructions
 1. **Virtual Environment (venv):**
     - Create a virtual environment:
